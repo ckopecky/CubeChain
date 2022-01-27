@@ -215,7 +215,7 @@ export default function Home() {
   return (
     <>
       <div className={styles.App}>
-        <h1>This is your Crypto payment gateway</h1>
+        <h1>This is your Crypto payment gateway CHANGE</h1>
         <div className={styles.App}>
           {!currentAccount ? (
             <>
